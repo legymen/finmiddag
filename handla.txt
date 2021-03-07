@@ -1,0 +1,5 @@
+1. Hämta kassar
+2. Starta bilen
+3. Åk till affären
+4. Handla.
+5. Åk hem
