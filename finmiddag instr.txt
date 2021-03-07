@@ -5,4 +5,6 @@
 5. Gör varmrätten
 6. Duka
 7. Ring och bjud in vänner
-8. Ät
+8. Ät förrätt
+9. Ät efterrätt
+10. Ät huvudrätt
