@@ -1,5 +1,6 @@
 1. Hämta kassar
-2. Gå ut
+2a. Klä på dig
+2b. Gå ut
 3. Starta bilen
 4. Åk till affären
 5. Handla.
